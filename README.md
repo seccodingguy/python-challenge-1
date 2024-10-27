@@ -48,5 +48,5 @@ Banana                    | $0.69  | 3        | $2.07
 Burger - Beef             | $8.49  | 5        | $42.45
 Rice pudding              | $4.99  | 6        | $29.94
  
-                                   | Total Quantity | Order Total
-                                   | 14             | $74.46
+                                   Total Quantity | Order Total
+                                   14             | $74.46
